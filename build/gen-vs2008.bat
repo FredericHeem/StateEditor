@@ -1,0 +1,1 @@
+call cmake.exe -G "Visual Studio 9 2008" ../ -DCMAKE_BUILD_TYPE=Release

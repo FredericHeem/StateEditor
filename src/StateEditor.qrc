@@ -1,0 +1,14 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/icons">
+        <file alias="StateForgeLogo.png">../icons/StateForgeLogo.png</file>
+    </qresource>
+    <qresource prefix="/examples">
+        <file alias="New.fsmcpp">../examples/New.fsmcpp</file>
+        <file alias="New.fsmcs">../examples/New.fsmcs</file>
+        <file alias="New.fsmjava">../examples/New.fsmjava</file>
+    </qresource>
+    <qresource prefix="/xsl">
+        <file alias="indent.xsl">indent.xsl</file>
+    </qresource>
+</RCC>

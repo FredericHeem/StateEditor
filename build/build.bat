@@ -1,0 +1,1 @@
+call cmake.exe --build . --target install  --config Release
